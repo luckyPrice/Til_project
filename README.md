@@ -1,13 +1,29 @@
-<img width="1095" alt="image" src="https://github.com/user-attachments/assets/d1f631db-2244-4e62-bd46-518bee3091b2" />
+# **TIL**
+## LLM 기반 작성한 TIL을 Markdown(md) 형식으로 변환하여 연동된 플랫폼(GitHub, Notion)에 자동 업로드할 수 있는 기능을 제공
 
+---
+
+# 클라우드 아키텍처
 <img width="709" alt="image" src="https://github.com/user-attachments/assets/6c8c6168-ecea-4778-94ca-244f7a320953" />
+---
+
+# 배포 과정
 <img width="680" alt="image" src="https://github.com/user-attachments/assets/2d3c364f-d24c-4adf-b56d-bac8a6cb9dc3" />
 
+---
+
+# CI/CD
 <img width="590" alt="image" src="https://github.com/user-attachments/assets/fabb058f-f064-41e1-99fc-2e997963f23f" />
 
+---
 
+# 백앤드, 프런트앤드
+<img width="1095" alt="image" src="https://github.com/user-attachments/assets/d1f631db-2244-4e62-bd46-518bee3091b2" />
 
-<img width="1202" alt="image" src="https://github.com/user-attachments/assets/7a24d186-d346-4ad0-99f1-b59fe44a20b5" /># Til_project
+---
+
+# 구현화면
+<img width="1202" alt="image" src="https://github.com/user-attachments/assets/7a24d186-d346-4ad0-99f1-b59fe44a20b5" />
 
 ## 1. 문제 상황
 
