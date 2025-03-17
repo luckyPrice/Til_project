@@ -1,4 +1,4 @@
-# **TIL**
+# **TILING**
 ## LLM 기반 작성한 TIL을 Markdown(md) 형식으로 변환하여 연동된 플랫폼(GitHub, Notion)에 자동 업로드할 수 있는 기능을 제공
 
 ---
